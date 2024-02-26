@@ -13,6 +13,9 @@ fn main() {
     let guess: u32 = "42".parse().expect("Not a number!");   
     const THREE_HOURS_IN_SECONDS: u32 = 60 * 60 * 3;
     // we get a compile time error because we can't mutate a variable type
-    let spaces = "   ";
-    let spaces = spaces.len();
+    //let spaces = "   ";
+    //let spaces = spaces.len();
+    //if :u32 is missing we get an error
+    let guess: u32 = "42".parse().expect("Not a number!");
+
 }
