@@ -37,4 +37,12 @@ fn main() {
  
      // remainder
      let remainder = 43 % 5;
+
+     let t = true;
+
+    let f: bool = false; // with explicit type annotation
+
+    let c = 'z';
+    let z: char = 'ℤ'; // with explicit type annotation
+    let heart_eyed_cat = '😻';
 }
