@@ -13,7 +13,7 @@ fn main() {
 
     println!("The value of x is: {x}");
 }
-    // functions
+    // 04_functions
     fn another_function() {
         println!("Another function.");
     }

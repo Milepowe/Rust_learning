@@ -2,16 +2,20 @@
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/control_flow/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/functions/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/guessing_game/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/hello_cargo/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/variables/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/control_flow/target" />
-      <excludeFolder url="file://$MODULE_DIR$/functions/target" />
-      <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
-      <excludeFolder url="file://$MODULE_DIR$/hello_cargo/target" />
-      <excludeFolder url="file://$MODULE_DIR$/variables/target" />
+      <sourceFolder url="file://$MODULE_DIR$/src/functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/hello_cargo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Exercices/Fahrenheit_Celsius/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/control_flow/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/guessing_game/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/functions/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/hello_cargo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/variables/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Exercices/Fahrenheit_Celsius/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/control_flow/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/guessing_game/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -16,7 +16,7 @@ jobs:
 
     steps:
     - name: test
-    - run: cd guessing_game
+    - run: cd 02_guessing_game
     - uses: actions/checkout@v3
     - name: Build
       run: cargo build --verbose
